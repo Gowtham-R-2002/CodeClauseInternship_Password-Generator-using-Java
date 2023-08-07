@@ -13,7 +13,7 @@ import java.awt.datatransfer.StringSelection;
 
 /**
  *
- * @author Gurunathan P
+ * @author Gowtham R
  */
 public class PasswordGUI extends javax.swing.JFrame {
 
